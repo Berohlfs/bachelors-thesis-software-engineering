@@ -27,6 +27,8 @@ A aplicação web foi implantada na plataforma Vercel, que oferece uma infraestr
 
 [Acessar Tuscan Web!](https://tuscan.bernardorohlfs.com)
 
+> ⚠️ Atenção: ao acessar o website, é possível que o backend da aplicação não esteja mais no ar.
+
 ## Instalação do Aplicativo Mobile
 
 📦 Temos APKs prontos para você testar! 
